@@ -1,0 +1,11 @@
+**/.DS_Store
+**/._*
+**/*.class
+**/*.jpg
+**/*.jpeg
+**/*.png
+**/*.rknn
+**/*.onnx
+**/*.pt
+**/*.pth
+
